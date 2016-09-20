@@ -5,7 +5,7 @@ layout: post
 
 ## Harry Potter
 
-<img src="/assets/SticksAndStones.jpg" alt="Book Cover" style="width: 200px;"/>
+<img src="/assets/HarryPotter.jpg" alt="Book Cover" style="width: 200px;"/>
 
 I like the books Harry Potter by: J.K. Rowling  -Lacey
 
