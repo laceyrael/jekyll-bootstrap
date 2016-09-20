@@ -6,4 +6,4 @@ layout: post
 ## Sticks and Stones
 
 I like this book.  -Lacey
-![Book Cover](assets/SticksAndStones.jpg)
+![Book Cover](/assets/SticksAndStones.jpg)
