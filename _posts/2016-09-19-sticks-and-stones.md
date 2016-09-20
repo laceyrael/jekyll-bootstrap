@@ -9,4 +9,4 @@ layout: post
 
 I like this book.  -Lacey
 
-(Buy the book)[https://www.amazon.com/Sticks-Stones-Abby-Cooper/dp/0374302871]
+[Buy the book](https://www.amazon.com/Sticks-Stones-Abby-Cooper/dp/0374302871)
