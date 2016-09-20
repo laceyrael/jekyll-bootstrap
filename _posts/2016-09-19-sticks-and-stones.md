@@ -6,4 +6,4 @@ layout: post
 ## Sticks and Stones
 
 I like this book.  -Lacey
-![Book Cover](/assets/SticksAndStones.jpg =250x)
+<img src="/assets/SticksAndStones.jpg" alt="Book Cover" style="width: 200px;"/>
